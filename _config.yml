@@ -51,7 +51,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: G-RZBV9T1P0C  # fill in your Google Analytics ID
+  id: "G-RZBV9T1P0C"  # fill in your Google Analytics ID
 
 goatcounter:
   id: # fill in your Goatcounter ID
@@ -87,7 +87,7 @@ social_preview_image: # string, local or CORS resources
 toc: true
 
 comments:
-  active: disqus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: "disqus" # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
