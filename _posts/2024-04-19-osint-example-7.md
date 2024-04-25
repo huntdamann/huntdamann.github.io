@@ -53,7 +53,7 @@ For experts: a) Easy, b) Medium, c) Medium
 
 
 ![Google Earth Image](/pictures/example_7/Googe-earth-view-1.PNG)
-![Street View](/pictures/street-view-1.PNG)
+![Street View](/pictures/example_7/street-view-1.PNG)
 4. Google Earth gives us a decent depiction of the shopping mall. Enough for us to conclude the answer for **Part A**.
 
 ![King Tut Poster](/pictures/example_7/tut.PNG)
