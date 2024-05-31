@@ -3,7 +3,7 @@ title: Is 2024 the Year of the RCE?
 date: 2024-05-31 12:00:00 -500
 categories: [blog, exploits]
 tags: [cyber, security, exploits, RCE]
-image: /pictures/year-of-rce/dragon-banner.jpg
+image: /pictures/year-of-rce/dragon-rce.png
 ---
 
 
@@ -20,6 +20,9 @@ The year of the dragon has brought about many revelations across a variety of in
 ## What is Remote Code Execution (RCE)?
 
 ![RCE Diagram](/pictures/year-of-rce/rce.png)
+
+
+
 Remote code execution (RCE) attacks allow an attacker to remotely execute malicious code on a computer. The impact of an RCE vulnerability can range from malware execution to an attacker gaining full control over a compromised machine. 
 
 RCE vulnerabilities can come in a few different flavors, such as: 
