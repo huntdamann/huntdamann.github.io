@@ -71,9 +71,9 @@ Microsoft suggests for their customers running Office 2016 to install all update
 
 There are a few mitigations that can be put in place to protect against an RCE attack:
 1. The first is to **always** sanitize user input in all fields. 
-2. We should also ahere to secure coding practices when creating custom code. 
-3. Staying on top of software and web server updates can also protect against newer expoits centered around RCE. 
-4. Having a system in place to track and scan for vulnerable pieces of code sucesuptible to RCE will greatly decrease the attack vector, as well. 
+2. We should also adhere to secure coding practices when creating custom code. 
+3. Staying on top of software and web server updates can also protect against newer exploits centered around RCE. 
+4. Having a system in place to track and scan for vulnerable pieces of code susceptible to RCE will greatly decrease the attack vector, as well. 
 5. Lastly, utilizing strong passwords and multifactor authentication (MFA) can help prevent RCE attacks by making it harder for an attacker to get access to your systems and resources.  
 
 
