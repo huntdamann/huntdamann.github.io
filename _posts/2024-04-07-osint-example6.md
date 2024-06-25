@@ -3,9 +3,10 @@ title: Open Source Intelligence Gathering Practice 6
 date: 2024-04-07 12:00:00 -500
 categories: [blog, tutorial, OSINT]
 tags: [cyber, security, OSINT, Google Image Search]
+image: /pictures/example-1/osint.jpg
 ---
 
-# OSINT Exercise #006
+
 
 Hi, throughout this repository you'll find information on **Open Source Intelligence Gathering** that I hope can provide anyone with assistance to better their skills. I have the intention on publishing these on Medium, so be on the lookout for that.
 

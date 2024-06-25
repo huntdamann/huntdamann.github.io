@@ -3,9 +3,9 @@ title: Open Source Intelligence Gathering Practice 2
 date: 2024-03-22 12:00:00 -500
 categories: [blog, tutorial, OSINT]
 tags: [cyber, security, OSINT, Google Earth, Wiki]
+image: /pictures/example-1/osint.jpg
 ---
 
-# OSINT Exercise #002
 
 Hi, throughout this repository you'll find information on **Open Source Intelligence Gathering** that I hope can provide anyone with assistance to better their skills. I have the intention on publishing these on Medium, so be on the lookout for that.
 

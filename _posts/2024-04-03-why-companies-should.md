@@ -3,11 +3,10 @@ title: Why Companies Should Invest MONEY in Cybersecurity
 date: 2024-04-03 12:00:00 -500
 categories: [blog, tutorial]
 tags: [cyber, security, finance, saas]
+image: /pictures/money.jpeg
 ---
 
 
-
-# Why Companies Should Invest MONEY In Cybersecurity
 
 
 Why should companies pay money for cybersecurity? 

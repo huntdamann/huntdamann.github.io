@@ -8,15 +8,6 @@ image: /pictures/website_deface/hacker.jpg
 
 
 
-
-# How a Hacker Can Deface a Website
-
-
-
-
-# Overview
-
-
 This is the first post in a tutorial series that will help showcase how trivial it can be for a hacker to exploit public-facing web applications. Throughout this series, I will lay out my thought process with hopes that it will not only be beneficial for the reader of this blog, but also for myself as I continue to learn.
 
 

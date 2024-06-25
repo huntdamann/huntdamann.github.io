@@ -8,10 +8,6 @@ image: /pictures/wordpress-hack/third-party.png
 
 
 
-# Beware of Third Party Plugins
-
-
-
 2024 continues to be a year of surprises as we move into the earliest summer solstice in 228 years. Recently, security researchers have exposed multiple security vulnerabilities in WordPress plugins that are actively being exploited. This should alarm all users of the WordPress CMS, as third-party plugins are a huge feature offered on this platform.
 
 ## What are Third Party Plugins?

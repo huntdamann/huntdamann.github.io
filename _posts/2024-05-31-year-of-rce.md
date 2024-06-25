@@ -8,9 +8,6 @@ image: /pictures/year-of-rce/dragon-rce.png
 
 
 
-# Is 2024 The Year of the RCE? 
-
-
 ![Banner](/pictures/year-of-rce/dragon-banner.jpg)
 
 “龙年吉祥 (Lóng Nián Jí Xiáng): Good Luck for this Dragon Year”
