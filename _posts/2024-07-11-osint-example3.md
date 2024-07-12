@@ -56,16 +56,16 @@ Click [here](https://gralhix.com/wp-content/uploads/2023/08/osint-exercise-003-p
 1. Taking from the information provided in the task briefing, we can start with a simple google search to find out more about this photo...
 
 
-[GIF of Searching on Google](/pictures/example_3/giphy.gif)
-[Google Search Results](/pictures/example_3/google-search.png)
+![GIF of Searching on Google](/pictures/example_3/giphy.gif)
+![Google Search Results](/pictures/example_3/google-search.png)
 
 
 2. The google search produced some decent results. Taking a look at one of the image results gives us a different angle of the photo provided to us. Doing a little more snooping reveals images that give hints for us to look into next...
 
 
-[President Turkey President](/pictures/example_3/snoop-photo-1.png)
-[Turkey Erdogan at Opulent Palace](/pictures/example_3/snoop-photo-2.png)
-[Putin on Turkey's presidential palace](/pictures/example_3/snoop-photo-3.png)
+![President Turkey President](/pictures/example_3/snoop-photo-1.png)
+![Turkey Erdogan at Opulent Palace](/pictures/example_3/snoop-photo-2.png)
+![Putin on Turkey's presidential palace](/pictures/example_3/snoop-photo-3.png)
 
 
 
@@ -80,17 +80,17 @@ Click [here](https://gralhix.com/wp-content/uploads/2023/08/osint-exercise-003-p
 4. Along with these observations, we see a couple of references to the location being called the "Presidential Palace". Doing some thinking, we can make another google search to see if this is possibly the place in question.
 
 
-[Turkey Presidential Palace Google Search](/pictures/example_3/Turkey-Presidential-Palace-Google.png)
+![Turkey Presidential Palace Google Search](/pictures/example_3/Turkey-Presidential-Palace-Google.png)
 
 
 5. The top google search results brings us to a Wikipedia page of what appears to be the Presidential Complex located in Turkey. A simple google search of the complex reveals an image that shows the light blue rug that we observed earlier. This confirms the location in the photo!
 
-[Turkey Presidential Palace Image Search](/pictures/example_3/president-palace.png)
+[!Turkey Presidential Palace Image Search](/pictures/example_3/president-palace.png)
 
 
 6. We are also given the coordinates on the Wikipedia page, which should give us everything we need to finish out this problem
 
-[Turkey Presidential Palace Wiki](/pictures/example_3/presidential-complex-wiki.png)
+![Turkey Presidential Palace Wiki](/pictures/example_3/presidential-complex-wiki.png)
 
 
 # Takeaways
