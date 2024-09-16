@@ -85,7 +85,7 @@ Click [here](https://gralhix.com/wp-content/uploads/2023/08/osint-exercise-003-p
 
 5. The top google search results brings us to a Wikipedia page of what appears to be the Presidential Complex located in Turkey. A simple google search of the complex reveals an image that shows the light blue rug that we observed earlier. This confirms the location in the photo!
 
-[!Turkey Presidential Palace Image Search](/pictures/example_3/president-palace.png)
+![Turkey Presidential Palace Image Search](/pictures/example_3/president-palace.png)
 
 
 6. We are also given the coordinates on the Wikipedia page, which should give us everything we need to finish out this problem
