@@ -57,7 +57,7 @@ For experts: a) Easy, b) Easy, c) Easy
 1. My initial thought on this problem was to find a tool that would allow me to translate the article to English. Luckily, Google Translate does just the job.
 
 
-[Google Translate Article](/pictures/example_8/OSINT8_article.PNG)
+[Google Translate Article](./pictures/example_8/OSINT8_article.PNG)
 
 
 2. Looking at our translated article, we can conclude that the audience is applauding a performance from Shen Yun. Doing a little more research, we find that Shen Yun is the world's premier classical Chinese dance and music company. Part A completed!
@@ -69,7 +69,7 @@ For experts: a) Easy, b) Easy, c) Easy
 4. I took some time to search through a few different articles discussing the performances. Ironically, I found the same photo that was used in the problem statement! It also includes a caption that should give us the answer to Part B and Part C!
 
 
-[Chrysler Hall](/pictures/example_8/OSINT8_partB.PNG)
+[Chrysler Hall](./pictures/example_8/OSINT8_partB.PNG)
 
 
 5. According to this screenshot the performance was held at the **Chrysler Hall** in Norfolk, Virginia, on **January 7**. This simultaneously provides the answers to B and C. We're done!
