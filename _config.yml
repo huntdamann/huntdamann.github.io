@@ -45,8 +45,10 @@ social:
     # - https://www.linkedin.com/in/username
     - https://youtube.com/SecurityDemystyfied
 
-google_site_verification: # fill in to your verification string
+google_site_verification: WAJhOtSvQL7iC_VbHoIrm7PllJtxqo5qk3uv8_OkpAY # fill in to your verification string
 
+google_search_console:
+  verification_file_code: WAJhOtSvQL7iC_VbHoIrm7PllJtxqo5qk3uv8_OkpAY
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
@@ -203,3 +205,7 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+
+plugins:
+  - jekyll-google_search_console_verification_file
