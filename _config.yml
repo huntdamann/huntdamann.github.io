@@ -45,10 +45,10 @@ social:
     # - https://www.linkedin.com/in/username
     - https://youtube.com/SecurityDemystyfied
 
-google_site_verification: WAJhOtSvQL7iC_VbHoIrm7PllJtxqo5qk3uv8_OkpAY # fill in to your verification string
+google_site_verification: TEm1fLzTmmQcVqZlsCMhFTfC-c4rtafY2PBpQ1vGZdQ # fill in to your verification string
 
 google_search_console:
-  verification_file_code: WAJhOtSvQL7iC_VbHoIrm7PllJtxqo5qk3uv8_OkpAY
+  verification_file_code: TEm1fLzTmmQcVqZlsCMhFTfC-c4rtafY2PBpQ1vGZdQ
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 

@@ -1,7 +1,7 @@
 ---
 title: Open Source Intelligence Gathering Practice 2
 date: 2024-03-22 12:00:00 -500
-categories: [blog, tutorial, OSINT]
+categories: [tutorial, OSINT]
 tags: [cyber, security, OSINT, Google Earth, Wiki]
 image: /pictures/example_1/osint.jpg
 ---

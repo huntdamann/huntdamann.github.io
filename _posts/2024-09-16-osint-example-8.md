@@ -1,7 +1,7 @@
 ---
 title: Open Source Intelligence Gathering Practice 8
 date: 2024-09-16 12:00:00 -500
-categories: [blog, tutorial, OSINT]
+categories: [tutorial, OSINT]
 tags: [cyber, security, OSINT, Google Translate, Google Image Search]
 image: /pictures/example_1/osint.jpg
 ---

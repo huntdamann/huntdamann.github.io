@@ -1,7 +1,7 @@
 ---
 title: Cody's First Blog CTF Writeup
 date: 2024-05-24 12:00:00 -500
-categories: [blog, tutorial, ctf, Web Penetration Testing]
+categories: [ctf, Web Penetration Testing]
 tags: [cyber, security, ctf, hacker101]
 image: /pictures/codys-first-blog/cody.jpeg
 ---

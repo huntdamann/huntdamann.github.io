@@ -1,7 +1,7 @@
 ---
 title: Is 2024 the Year of the RCE?
 date: 2024-05-31 12:00:00 -500
-categories: [blog, exploits]
+categories: [blog, general]
 tags: [cyber, security, exploits, RCE]
 image: /pictures/year-of-rce/dragon-rce.png
 ---

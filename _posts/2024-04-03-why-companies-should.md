@@ -1,7 +1,7 @@
 ---
 title: Why Companies Should Invest MONEY in Cybersecurity
 date: 2024-04-03 12:00:00 -500
-categories: [blog, tutorial]
+categories: [blog, general]
 tags: [cyber, security, finance, saas]
 image: /pictures/money.jpeg
 ---
